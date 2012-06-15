@@ -12,33 +12,24 @@ By [RSS](https://github.com/rssems/), inspired by Dustin Curtis, special thanks 
 Features
 --------
 
-* Pre-built 'index.php', 'header.php', 'single.php', 'comments.php'
+* WordPress Theme
 * HTML 5 + CSS 3
 * SEO 
 * @font-face
-* Official blog post [rss](http://www.rss-ems.com/blog)
+* Responsive Layout
+* Custom Theme Settings for sidebar
+* Official blog post [rss](http://www.rss-ems.com/blog/2738-mnmlsm-free-wordpress-theme-19-04-2012)
+* Pages
 
 
 Still in the works...
 ---------------
-
-* Custom Theme Settings for sidebar
-* Pages
 * Search
-* 
+* Comments Area
 
-
-What you need to know
---------
-
-**To change sidebar information use:**
-
-> header.php line 60-63
 
 Happy usign!
 
 
 A WordPress Theme.
 http://github.com/rssems/mnmlsm
-
-
